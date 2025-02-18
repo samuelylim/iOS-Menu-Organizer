@@ -9,5 +9,6 @@ The cohere API is used to classify the menu items.
 
 # Preview
 *The view containing the sorted menu items*
+
 ![simulator-screen-shot](https://github.com/user-attachments/assets/ccbfaafb-1205-4c2c-a110-34326cff9f60)
 
